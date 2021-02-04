@@ -1,0 +1,20 @@
+.customSearchRow{
+display: flex;
+justify-content: space-between;
+align-items: center;
+ transform: translateY(30px);
+/* border:2px solid red; */
+}
+
+.cross_icon{
+    color:white;
+     margin-right: 2rem;
+}
+.customRow{
+     margin-left: 2rem;
+    color: white;
+}
+.customSearchRow h2{
+   
+
+}
